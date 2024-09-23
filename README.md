@@ -10,6 +10,11 @@ To Develop a convolutional deep neural network for digit classification.
 
 Include the neural network model diagram.(http://alexlenail.me/NN-SVG/index.html)
 
+### image
+
+![image](https://github.com/user-attachments/assets/b8ad1694-f5cd-483a-be09-3497ef0b3906)
+
+
 ## DESIGN STEPS
 
 ### Step 1:
